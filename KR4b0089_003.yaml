@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0089/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録詩詩一箭細鐵絲剛刀插銀刃白黃氏集千家注杜工部詩補遺九久雨詩注詩詩二春岑藹林木草堂詩箋二十四又於詩注
+  hash: sha256:f04fe153a526b93aafbf4d528de96f4ff91c9ace69d3b316b09f28da67fc7fe6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0089_CHANT_003-1a.1-h}
+metadata:
+  title: 阮瑀集二卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0089.xml
+hash: sha256:8ff59e2487121c7ccdb9a0cf45827aa638ad351415099adf2e790cddaaa0b589

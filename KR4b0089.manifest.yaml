@@ -1,0 +1,61 @@
+canonical_identifier: bkk:krp/KR4b0089/v1
+canonical_location: https://kanripo.org/bkk/KR4b0089/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阮瑀集二卷
+  identifiers:
+    krp: KR4b0089
+  tags:
+    kr-categories: KR4b
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0089.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4b0089_001.yaml, hash: 'sha256:e2f8f02189321ffe1bc472b38a2ad901e3870c3c354d70bcd87903567becf392'}
+  - {seq: 2, filename: KR4b0089_002.yaml, hash: 'sha256:94186237dd261e10c136fae5bafb9519ead99c7082a1113bbc266598d9402e0b'}
+  - {seq: 3, filename: KR4b0089_003.yaml, hash: 'sha256:8ff59e2487121c7ccdb9a0cf45827aa638ad351415099adf2e790cddaaa0b589'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4b0089_001.markers.yaml, hash: 'sha256:115f0585ccd4ed8d6f6fa9b7bd1c683d75a400839e51ef0909edff566289cdda'}
+  - {seq: 2, role: markers, filename: assets/KR4b0089_002.markers.yaml, hash: 'sha256:d47a4a54233fb95afa3156f2b37ea7aa360d682a475f87127762d7cffd47d8ae'}
+  - {seq: 3, role: markers, filename: assets/KR4b0089_003.markers.yaml, hash: 'sha256:8a37c61400c6f7d0a0cd8fd03ea655a978d03a09c82490e527f4f90c2425363b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4b0089_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 869
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4b0089_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 2274
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4b0089_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 51
+  label: 附錄
+  type: section
+  level: 1
+hash: sha256:78a357bfd4ec21f247bb08af2c565d3680490ea9c6ae144a1ac67f5c21ecc39b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
