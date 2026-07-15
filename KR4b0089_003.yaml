@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 附錄詩詩一箭細鐵絲剛刀插銀刃白黃氏集千家注杜工部詩補遺九久雨詩注詩詩二春岑藹林木草堂詩箋二十四又於詩注
-  hash: sha256:e281d5b6071c62084e3ee3ee101d01fc3b21db9a6ac216633b5ef13c83482bd5
+  text: 附録詩詩一箭細鐵絲剛刀插銀刃白黃氏集千家注杜工部詩補遺九久雨詩注詩詩二春岑藹林木草堂詩箋二十四又於詩注
+  hash: sha256:f04fe153a526b93aafbf4d528de96f4ff91c9ace69d3b316b09f28da67fc7fe6
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR4b0089_CHANT_003-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR4b0089.xml
-hash: sha256:f84d9809de77f1db83b4d9b2088d2447930ae41b52a721e88906c4c1219d7565
+hash: sha256:8ff59e2487121c7ccdb9a0cf45827aa638ad351415099adf2e790cddaaa0b589
